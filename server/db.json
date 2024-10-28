@@ -1,0 +1,457 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "SM001",
+      "image": "https://owen.cdn.vccloud.vn/media/catalog/product/cache/01755127bd64f5dde3182fd2f139143a/a/r/ar230634dt._72.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Sơ Mi",
+      "price": "670,000",
+      "date": "17/10/2024"
+    },
+    {
+      "id": "2",
+      "name": "SM002",
+      "image": "https://owen.cdn.vccloud.vn/media/catalog/product/cache/01755127bd64f5dde3182fd2f139143a/a/r/ar240557dt._2_1.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Sơ Mi",
+      "price": "770,000",
+      "date": "17/10/2024"
+    },
+    {
+      "id": "3",
+      "name": "JK001",
+      "image": "https://www.jacketsmasters.com/wp-content/uploads/2022/06/college-dropouts-varsity-jacket-scaled.jpg",
+      "status": "Hết hàng",
+      "category": "Áo Jacket",
+      "price": "1,230,000",
+      "date": "17/10/2024"
+    },
+    {
+      "id": "4",
+      "name": "PL001",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9b7818b3-2bad-47f6-94af-040e1b9ab51b/AS+M+NK+CLUB+SS+POLO+PIQUE.png",
+      "status": "Hết hàng",
+      "category": "Áo Polo",
+      "price": "362,000",
+      "date": "17/10/2024"
+    },
+    {
+      "id": "5",
+      "name": "VT001",
+      "image": "https://dytbw3ui6vsu6.cloudfront.net/media/catalog/product/resize/914x1200/h/b/hbeu50510449_001_350_1_12.webp",
+      "status": "Còn hàng",
+      "category": "Áo Veston",
+      "price": "981,000",
+      "date": "17/10/2024"
+    },
+    {
+      "name": "JK003",
+      "image": "https://cdn.chiaki.vn/unsafe/0x960/left/top/smart/filters:quality(75)/https://chiaki.vn/upload/product/2022/09/ao-bomber-mlb-diamond-monogram-boston-red-sox-3ajpm0224-43bgs-631eddcfc35a8-12092022142047.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Jacket",
+      "price": "1,300,000",
+      "id": "6",
+      "date": "19/10/2024"
+    },
+    {
+      "name": "JK002",
+      "image": "https://owen.cdn.vccloud.vn/media/catalog/product/cache/01755127bd64f5dde3182fd2f139143a/j/k/jk241491._2.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Jacket",
+      "price": "1,320,000",
+      "id": "7",
+      "date": "19/10/2024"
+    },
+    {
+      "name": "QJ001",
+      "image": "https://product.hstatic.net/1000253775/product/160_jean_227-11_b33e24bdd68e4a43a1b487143b00c869_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Jean",
+      "price": "689,000",
+      "id": "8",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "QJ002",
+      "image": "https://product.hstatic.net/1000253775/product/160_jean_226-3_b8a025785cd543e0be39aefa3deae995_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Jean",
+      "price": "689,000",
+      "id": "9",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "QS001",
+      "image": "https://product.hstatic.net/1000253775/product/160_short_227-1_61c5113abb0342108851e2ddbbe3942e_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Short",
+      "price": "350,000",
+      "id": "10",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "QS002",
+      "image": "https://product.hstatic.net/1000253775/product/quan-short-icondenim-boxy-creative_604b22c3757b4f19a33864bbff0cedf0_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Short",
+      "price": "350,000",
+      "id": "11",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "QT001",
+      "image": "https://product.hstatic.net/1000253775/product/160_quan_tay_050-3_a5ce2d21fa5c48bc8fc4b1cb0b337865_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Tây",
+      "price": "390,000",
+      "id": "12",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "QT002",
+      "image": "https://product.hstatic.net/1000253775/product/160_quan_tay_4m-5_fa06b48aa3df455f8e17da8560aacf2a_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Tây",
+      "price": "390,000",
+      "id": "13",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "JG001",
+      "image": "https://product.hstatic.net/1000253775/product/160_quan_066-2_979746cfc6204c16ba24b43d379c5fcc_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Jogger",
+      "price": "389,000",
+      "id": "14",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "JG002",
+      "image": "https://product.hstatic.net/1000253775/product/160_quan_3m-1_8a5ee84bce844b71b49a39682f545596_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Jogger",
+      "price": "400,000",
+      "id": "15",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "QK001",
+      "image": "https://product.hstatic.net/1000253775/product/160_quan_dai_3m-3_baa4072d40f5424b91d04647a336d617_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Kaki",
+      "price": "460,000",
+      "id": "16",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "QK002",
+      "image": "https://product.hstatic.net/1000253775/product/quan_khaki_cargo_nam_icondenim_carrier_chinh_dien_mau_be_d6c4caae529346fe921e85fc2713eeb0_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Kaki",
+      "price": "450,000",
+      "id": "17",
+      "date": "21/10/2024"
+    },
+    {
+      "name": "SM003",
+      "image": "https://product.hstatic.net/1000253775/product/160_ao_somi_280-11_c2e27e33821e43bb9875d0c9f88f0b9b_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Sơ Mi",
+      "price": "310,000",
+      "id": "18",
+      "date": "22/10/2024"
+    },
+    {
+      "name": "SM004",
+      "image": "https://product.hstatic.net/1000253775/product/160_somi_251-14_f1fcd88132604893aad361a8aa122aa6_large.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Sơ Mi",
+      "price": "349,000",
+      "id": "19",
+      "date": "22/10/2024"
+    },
+    {
+      "name": "SM005",
+      "image": "https://product.hstatic.net/1000253775/product/2_5cfe306b8ef74378b9f0adadcd6c0ab5_large.png",
+      "status": "Còn hàng",
+      "category": "Áo Sơ Mi",
+      "price": "400,000",
+      "id": "20",
+      "date": "22/10/2024"
+    },
+    {
+      "name": "JK004",
+      "image": "https://product.hstatic.net/1000253775/product/160_ao_khoac_171-3_17fbba012644425c9b44601db9314c0e_large.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Jacket",
+      "price": "549,000",
+      "id": "21",
+      "date": "22/10/2024"
+    },
+    {
+      "name": "PL002",
+      "image": "https://product.hstatic.net/1000253775/product/160_ao_polo_192-13_0f84604032154a5c8bf8b1012ecace23_large.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Polo",
+      "price": "389,000",
+      "id": "22",
+      "date": "22/10/2024"
+    },
+    {
+      "name": "PL003",
+      "image": "https://product.hstatic.net/1000253775/product/160_ao_polo_185-7_4fb2449f54404ab892e608ba30ba1d3f_large.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Polo",
+      "price": "421,000",
+      "id": "23",
+      "date": "22/10/2024"
+    },
+    {
+      "name": "PL004",
+      "image": "https://product.hstatic.net/1000253775/product/160_ao_polo_187-11_790b5c6de1e44dba91bcefabac01d7c8_large.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Polo",
+      "price": "500,000",
+      "id": "24",
+      "date": "22/10/2024"
+    },
+    {
+      "name": "QS003",
+      "image": "https://product.hstatic.net/1000253775/product/160_quan_short_218-10_41b9b97f345f4f0da3a0280aa3a9c013_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Short",
+      "price": "450,000",
+      "id": "25",
+      "date": "24/10/2024"
+    },
+    {
+      "name": "QJ003",
+      "image": "https://product.hstatic.net/1000253775/product/160_quan_jean_1m-1_df561a83efaa406cad014b756b9e542d_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Jean",
+      "price": "549,000",
+      "id": "26",
+      "date": "28/10/2024"
+    },
+    {
+      "name": "QS004",
+      "image": "https://product.hstatic.net/1000253775/product/quan_short_jeans_nam_icondenim_metallic_fobpoc_chinh_dien_d71606249e5e4b8db6a90248d34d6b49_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Quần Short",
+      "price": "390,000",
+      "id": "27",
+      "date": "28/10/2024"
+    },
+    {
+      "name": "AT001",
+      "image": "https://product.hstatic.net/1000253775/product/160_ao_thun_467-8_2ec87743524d491594cffb7161e2e1d9_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Thun",
+      "price": "319,000",
+      "id": "28",
+      "date": "28/10/2024"
+    },
+    {
+      "name": "SW001",
+      "image": "https://product.hstatic.net/1000253775/product/160_sweater_1m-8_d4eb652a6a9d4162b6cbf5ea2bd4a69c_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Sweater",
+      "price": "420,000",
+      "id": "29",
+      "date": "28/10/2024"
+    },
+    {
+      "name": "AH001",
+      "image": "https://product.hstatic.net/1000253775/product/ao-hoodie-icondenim-ft-marvel-deadpool-nam-xien_acc5a51311524050944a708c2f850635_1024x1024.jpg",
+      "status": "Còn hàng",
+      "category": "Áo Hoodie",
+      "price": "549,000",
+      "id": "30",
+      "date": "28/10/2024"
+    }
+  ],
+  "users": [
+    {
+      "name": "Nguyễn Thanh Tùng",
+      "email": "thanhtung100705@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Nguyễn Thanh Tùng",
+      "email": "thanhtung100705@gmail.com",
+      "password": "123456",
+      "role": "Admin",
+      "date": "10/07/2005",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "name": "Ta Tien Dung",
+      "email": "TaVanB@gmail.com",
+      "password": "111111",
+      "role": "User",
+      "status": "Active",
+      "date": "21/10/2024"
+    },
+    {
+      "id": "3",
+      "name": "Nguyen Viet Anh",
+      "email": "Vietanh@gmail.com",
+      "password": "555555",
+      "role": "User",
+      "status": "Active",
+      "date": "21/10/2024"
+    },
+    {
+      "id": "4",
+      "name": "Đào Trí Đức",
+      "email": "daotriduc@gmail.com",
+      "password": "123456",
+      "role": "User",
+      "status": "Active",
+      "date": "21/10/2024"
+    },
+    {
+      "id": "5",
+      "name": "Quynh beo",
+      "email": "Quynh00705@gmail.com",
+      "password": "100705",
+      "role": "User",
+      "status": "Active",
+      "date": "21/10/2024"
+    },
+    {
+      "id": "6",
+      "name": "Mạnh Tỏ",
+      "email": "manhto2005@gmail.com",
+      "password": "123456",
+      "role": "User",
+      "status": "Active",
+      "date": "24/10/2024"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Áo Sơ Mi",
+      "description": "Áo sơ mi mềm mại"
+    },
+    {
+      "id": "2",
+      "name": "Áo Jacket",
+      "description": "Áo khoác Jacket cao cấp"
+    },
+    {
+      "id": "3",
+      "name": "Áo Polo",
+      "description": "Áo Polo năng động"
+    },
+    {
+      "id": "4",
+      "name": "Áo Veston",
+      "description": "Áo Veston lịch lãm"
+    },
+    {
+      "id": "5",
+      "name": "Áo Thun",
+      "description": "Năng động,trẻ trung,hip hop"
+    },
+    {
+      "id": "6",
+      "name": "Áo Sweater",
+      "description": "Ấm áp,mềm mại"
+    },
+    {
+      "id": "7",
+      "name": "Áo Hoodie",
+      "description": "Giữ nhiệt,thời trang"
+    },
+    {
+      "id": "8",
+      "name": "Quần Jean",
+      "description": ""
+    },
+    {
+      "id": "9",
+      "name": "Quần Short",
+      "description": "Quần "
+    },
+    {
+      "id": "10",
+      "name": "Quần Tây",
+      "description": "Quần"
+    },
+    {
+      "id": "11",
+      "name": "Quần Jogger",
+      "description": "Quần"
+    },
+    {
+      "id": "12",
+      "name": "Quần Kaki",
+      "description": "Quần"
+    }
+  ],
+  "orders": [
+    {
+      "name": "Nguyễn Thanh Tùng",
+      "email": "thanhtung100705@gmail.com",
+      "phone": "0969872005",
+      "address": "Dong Da Ha Noi",
+      "paymentMethod": "COD",
+      "items": [
+        {
+          "id": "1",
+          "name": "SM001",
+          "image": "https://owen.cdn.vccloud.vn/media/catalog/product/cache/01755127bd64f5dde3182fd2f139143a/a/r/ar230634dt._72.jpg",
+          "status": "Còn hàng",
+          "category": "Áo Sơ Mi",
+          "price": "670,000",
+          "date": "17/10/2024",
+          "size": "L",
+          "quantity": 1
+        },
+        {
+          "name": "QJ001",
+          "image": "https://product.hstatic.net/1000253775/product/160_jean_227-11_b33e24bdd68e4a43a1b487143b00c869_1024x1024.jpg",
+          "status": "Còn hàng",
+          "category": "Quần Jean",
+          "price": "689,000",
+          "id": "8",
+          "date": "21/10/2024",
+          "size": "XL",
+          "quantity": 1
+        }
+      ],
+      "total": 1359000,
+      "id": 1
+    },
+    {
+      "name": "Ta Tien Dung",
+      "email": "Dung123@gmail.com",
+      "phone": "0912478741",
+      "address": "Long bien",
+      "paymentMethod": "COD",
+      "items": [
+        {
+          "name": "QJ002",
+          "image": "https://product.hstatic.net/1000253775/product/160_jean_226-3_b8a025785cd543e0be39aefa3deae995_1024x1024.jpg",
+          "status": "Còn hàng",
+          "category": "Quần Jean",
+          "price": "689,000",
+          "id": "9",
+          "date": "21/10/2024",
+          "size": "L",
+          "quantity": 10
+        }
+      ],
+      "total": 6890000,
+      "id": 2
+    }
+  ]
+}
